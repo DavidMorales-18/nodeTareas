@@ -1,0 +1,16 @@
+{
+  "name": "04_tareas",
+  "version": "1.0.0",
+  "description": "Aplicacion de Tareas por hacer",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morales David",
+  "license": "ISC"
+}
