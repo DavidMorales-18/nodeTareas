@@ -5,7 +5,7 @@ const descripcion = { //como se va a utlilizar en todos los comandos
     alias: 'd',
     desc: 'Descripcion de las tarea' //no indica aue es esto 
 }
-const completado = { // omo se va a utlilizar en todos los comandos 
+const completado = { // como se va a utlilizar en todos los comandos 
     defaul: true,
     alias: 'c',
     desc: 'Marca completado o pendiente una tarea'
